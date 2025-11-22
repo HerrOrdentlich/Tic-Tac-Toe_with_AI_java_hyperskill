@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI (Java)/task" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI (Java)/task (1)" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Print the age" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Select the statement" />
@@ -23,15 +24,18 @@
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Check if an array is sorted ascending" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
-            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sneak Peek  Unveiling the Array's Secrets" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Unveiling the array's secrets" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Rotate a rectangle array" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Swap the columns" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
-            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch (1)/Harry Potter" />
-            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

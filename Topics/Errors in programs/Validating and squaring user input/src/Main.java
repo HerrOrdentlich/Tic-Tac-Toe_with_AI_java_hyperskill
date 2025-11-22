@@ -8,13 +8,6 @@ public class Main {
         int number = scanner.nextInt();
 
         // Check if the number is negative
-        if (number < 0){
-            System.out.println("Invalid input!");
-        }
-        else {
-            number = number * number;
-            System.out.println(number);
-        }
 
 
         // Print the square of the number if it's non-negative
